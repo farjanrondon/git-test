@@ -39,7 +39,7 @@ Eliminar una rama.
 ## $ git push
 Subir todos los cambios al repositorio.
 
-## $ git commit -am
+## $ git commit -am "Comentario"
 Hace el trabajo del add y el commit a la vez.
 
 
