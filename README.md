@@ -36,7 +36,8 @@ Fusionar ramas, fusiona la rama indicada a la rama en la que se esta posicionado
 ## $ git branch -d <nombre_de_la_rama>
 Eliminar una rama.
 
-## -------------------------------------------------
+## $ git push
+Subir todos los cambios al repositorio.
 
 
 
