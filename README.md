@@ -42,6 +42,8 @@ Subir todos los cambios al repositorio.
 ## $ git commit -am "Comentario"
 Hace el trabajo del add y el commit a la vez.
 
+## $ git clone <...enlace_del_repositorio.git>
+Clonar un repositorio de GitHub.
 
 
 # Ante algun error con el GIT PUSH:
