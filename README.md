@@ -41,6 +41,16 @@ Subir todos los cambios al repositorio.
 
 
 
+# Ante algun error con el GIT PUSH:
+
+	$ git fetch origin main:tmp
+	$ git rebase tmp
+	$ git push origin HEAD:main
+	$ git branch -d tmp
+	$ git push -u origin main
+
+
+
 # Respuestas para GIT:
 
 ## :Q
