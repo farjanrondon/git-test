@@ -70,4 +70,4 @@ Salir inmediatamente y volver al **bash**.
 
   
 
-### Farjan Rondon- USB.
+### Farjan Rondon - USB.
