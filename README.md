@@ -66,3 +66,8 @@ Insertar nuevos comentarios en el **git commit --amend**.
 
 ## :wq! 
 Salir inmediatamente y volver al **bash**.
+
+
+  
+
+### Farjan Rondon- USB.
